@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/rolo_test.dir/tests/base_tests.c.o  -o rolo_test /usr/local/Cellar/criterion/2.3.3/lib/libcriterion.dylib 

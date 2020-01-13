@@ -1,0 +1,19 @@
+Start testing: Sep 29 21:39 EDT
+----------------------------------------------------------
+Unable to find executable: unittest
+1/1 Testing: Test
+1/1 Test: Test
+Command: "" "tests/base_tests.c"
+Directory: /Users/zhengyu/Desktop/CSE320/hw2/cmake-build-debug
+"Test" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Test" end time: Sep 29 21:39 EDT
+"Test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 29 21:39 EDT

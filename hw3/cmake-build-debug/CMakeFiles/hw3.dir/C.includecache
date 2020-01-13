@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/debug.h
+stdio.h
+-
+
+../include/sfmm.h
+stdbool.h
+-
+stdint.h
+-
+stdlib.h
+-
+
+/home/student/Desktop/hw3/src/main.c
+stdio.h
+-
+sfmm.h
+/home/student/Desktop/hw3/src/sfmm.h
+
+/home/student/Desktop/hw3/tests/sfmm_tests.c
+criterion/criterion.h
+-
+errno.h
+-
+signal.h
+-
+debug.h
+/home/student/Desktop/hw3/tests/debug.h
+sfmm.h
+/home/student/Desktop/hw3/tests/sfmm.h
+

@@ -1,0 +1,4 @@
+/Users/zhengyu/Desktop/CSE320/hw2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/zhengyu/Desktop/CSE320/hw2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zhengyu/Desktop/CSE320/hw2/cmake-build-debug/CMakeFiles/rolo_test.dir
+/Users/zhengyu/Desktop/CSE320/hw2/cmake-build-debug/CMakeFiles/rolo.dir

@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="hw2"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/zhengyu/Desktop/CSE320/hw2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhengyu/Desktop/CSE320/hw2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhengyu/Desktop/CSE320/hw2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhengyu/Desktop/CSE320/hw2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhengyu/Desktop/CSE320/hw2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/zhengyu/Desktop/CSE320/hw2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhengyu/Desktop/CSE320/hw2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhengyu/Desktop/CSE320/hw2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhengyu/Desktop/CSE320/hw2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhengyu/Desktop/CSE320/hw2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/zhengyu/Desktop/CSE320/hw2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhengyu/Desktop/CSE320/hw2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhengyu/Desktop/CSE320/hw2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhengyu/Desktop/CSE320/hw2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhengyu/Desktop/CSE320/hw2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rolo_test">
+				<Option output="/Users/zhengyu/Desktop/CSE320/hw2/cmake-build-debug/rolo_test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhengyu/Desktop/CSE320/hw2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DROLOLIB=&quot;/Users/zhengyu/Desktop/CSE320/hw2/helplib&quot;"/>
+					<Add directory="/Users/zhengyu/Desktop/CSE320/hw2/include"/>
+					<Add directory="/Users/zhengyu/Desktop/CSE320/hw2/include/toolsdir"/>
+					<Add directory="/Users/zhengyu/Desktop/CSE320/hw2/src"/>
+					<Add directory="/Users/zhengyu/Desktop/CSE320/hw2/src/toolsdir"/>
+					<Add directory="/usr/local/Cellar/criterion/2.3.3/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhengyu/Desktop/CSE320/hw2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rolo_test"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhengyu/Desktop/CSE320/hw2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhengyu/Desktop/CSE320/hw2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhengyu/Desktop/CSE320/hw2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rolo_test/fast">
+				<Option output="/Users/zhengyu/Desktop/CSE320/hw2/cmake-build-debug/rolo_test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhengyu/Desktop/CSE320/hw2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DROLOLIB=&quot;/Users/zhengyu/Desktop/CSE320/hw2/helplib&quot;"/>
+					<Add directory="/Users/zhengyu/Desktop/CSE320/hw2/include"/>
+					<Add directory="/Users/zhengyu/Desktop/CSE320/hw2/include/toolsdir"/>
+					<Add directory="/Users/zhengyu/Desktop/CSE320/hw2/src"/>
+					<Add directory="/Users/zhengyu/Desktop/CSE320/hw2/src/toolsdir"/>
+					<Add directory="/usr/local/Cellar/criterion/2.3.3/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhengyu/Desktop/CSE320/hw2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rolo_test/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhengyu/Desktop/CSE320/hw2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhengyu/Desktop/CSE320/hw2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhengyu/Desktop/CSE320/hw2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rolo">
+				<Option output="/Users/zhengyu/Desktop/CSE320/hw2/cmake-build-debug/rolo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhengyu/Desktop/CSE320/hw2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DROLOLIB=&quot;/Users/zhengyu/Desktop/CSE320/hw2/helplib&quot;"/>
+					<Add directory="/Users/zhengyu/Desktop/CSE320/hw2/include"/>
+					<Add directory="/Users/zhengyu/Desktop/CSE320/hw2/include/toolsdir"/>
+					<Add directory="/Users/zhengyu/Desktop/CSE320/hw2/src"/>
+					<Add directory="/Users/zhengyu/Desktop/CSE320/hw2/src/toolsdir"/>
+					<Add directory="/usr/local/Cellar/criterion/2.3.3/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhengyu/Desktop/CSE320/hw2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rolo"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhengyu/Desktop/CSE320/hw2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhengyu/Desktop/CSE320/hw2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhengyu/Desktop/CSE320/hw2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rolo/fast">
+				<Option output="/Users/zhengyu/Desktop/CSE320/hw2/cmake-build-debug/rolo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhengyu/Desktop/CSE320/hw2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DROLOLIB=&quot;/Users/zhengyu/Desktop/CSE320/hw2/helplib&quot;"/>
+					<Add directory="/Users/zhengyu/Desktop/CSE320/hw2/include"/>
+					<Add directory="/Users/zhengyu/Desktop/CSE320/hw2/include/toolsdir"/>
+					<Add directory="/Users/zhengyu/Desktop/CSE320/hw2/src"/>
+					<Add directory="/Users/zhengyu/Desktop/CSE320/hw2/src/toolsdir"/>
+					<Add directory="/usr/local/Cellar/criterion/2.3.3/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhengyu/Desktop/CSE320/hw2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rolo/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhengyu/Desktop/CSE320/hw2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhengyu/Desktop/CSE320/hw2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhengyu/Desktop/CSE320/hw2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/zhengyu/Desktop/CSE320/hw2/include/choices.h">
+			<Option target="rolo"/>
+		</Unit>
+		<Unit filename="/Users/zhengyu/Desktop/CSE320/hw2/include/datadef.h">
+			<Option target="rolo"/>
+		</Unit>
+		<Unit filename="/Users/zhengyu/Desktop/CSE320/hw2/include/rolodefs.h">
+			<Option target="rolo"/>
+		</Unit>
+		<Unit filename="/Users/zhengyu/Desktop/CSE320/hw2/include/rolofiles.h">
+			<Option target="rolo"/>
+		</Unit>
+		<Unit filename="/Users/zhengyu/Desktop/CSE320/hw2/include/toolsdir/args.h">
+			<Option target="rolo"/>
+		</Unit>
+		<Unit filename="/Users/zhengyu/Desktop/CSE320/hw2/include/toolsdir/basics.h">
+			<Option target="rolo"/>
+		</Unit>
+		<Unit filename="/Users/zhengyu/Desktop/CSE320/hw2/include/toolsdir/ctools.h">
+			<Option target="rolo"/>
+		</Unit>
+		<Unit filename="/Users/zhengyu/Desktop/CSE320/hw2/include/toolsdir/mem.h">
+			<Option target="rolo"/>
+		</Unit>
+		<Unit filename="/Users/zhengyu/Desktop/CSE320/hw2/include/toolsdir/menu.h">
+			<Option target="rolo"/>
+		</Unit>
+		<Unit filename="/Users/zhengyu/Desktop/CSE320/hw2/include/toolsdir/sys5.h">
+			<Option target="rolo"/>
+		</Unit>
+		<Unit filename="/Users/zhengyu/Desktop/CSE320/hw2/src/clear.c">
+			<Option target="rolo"/>
+		</Unit>
+		<Unit filename="/Users/zhengyu/Desktop/CSE320/hw2/src/io.c">
+			<Option target="rolo"/>
+		</Unit>
+		<Unit filename="/Users/zhengyu/Desktop/CSE320/hw2/src/main.c">
+			<Option target="rolo"/>
+		</Unit>
+		<Unit filename="/Users/zhengyu/Desktop/CSE320/hw2/src/menuaux.c">
+			<Option target="rolo"/>
+		</Unit>
+		<Unit filename="/Users/zhengyu/Desktop/CSE320/hw2/src/operations.c">
+			<Option target="rolo"/>
+		</Unit>
+		<Unit filename="/Users/zhengyu/Desktop/CSE320/hw2/src/options.c">
+			<Option target="rolo"/>
+		</Unit>
+		<Unit filename="/Users/zhengyu/Desktop/CSE320/hw2/src/rlist.c">
+			<Option target="rolo"/>
+		</Unit>
+		<Unit filename="/Users/zhengyu/Desktop/CSE320/hw2/src/rolo.c">
+			<Option target="rolo"/>
+		</Unit>
+		<Unit filename="/Users/zhengyu/Desktop/CSE320/hw2/src/search.c">
+			<Option target="rolo"/>
+		</Unit>
+		<Unit filename="/Users/zhengyu/Desktop/CSE320/hw2/src/toolsdir/args.c">
+			<Option target="rolo"/>
+		</Unit>
+		<Unit filename="/Users/zhengyu/Desktop/CSE320/hw2/src/toolsdir/ctools.c">
+			<Option target="rolo"/>
+		</Unit>
+		<Unit filename="/Users/zhengyu/Desktop/CSE320/hw2/src/toolsdir/mem.c">
+			<Option target="rolo"/>
+		</Unit>
+		<Unit filename="/Users/zhengyu/Desktop/CSE320/hw2/src/toolsdir/menu.c">
+			<Option target="rolo"/>
+		</Unit>
+		<Unit filename="/Users/zhengyu/Desktop/CSE320/hw2/src/update.c">
+			<Option target="rolo"/>
+		</Unit>
+		<Unit filename="/Users/zhengyu/Desktop/CSE320/hw2/tests/base_tests.c">
+			<Option target="rolo_test"/>
+		</Unit>
+		<Unit filename="/Users/zhengyu/Desktop/CSE320/hw2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

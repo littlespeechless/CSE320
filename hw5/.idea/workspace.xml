@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="hw5" targetName="hw5" />
+      <config projectName="hw5" targetName="hw5_debug" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5f7cbce1-4572-4c4a-95c3-23740c3cbf85" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectId" id="1TymIQ4d6uvJqZvw3tbvaVKcX9v" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hw2" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="dynamic.analysis.tools.valgrind" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/include" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.hw5">
+    <configuration name="hw5" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="-p 1234" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hw5" TARGET_NAME="hw5" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="hw5" RUN_TARGET_NAME="hw5">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hw5_debug" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hw5" TARGET_NAME="hw5_debug" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="hw5" RUN_TARGET_NAME="hw5_debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.hw5" />
+      <item itemvalue="CMake Application.hw5_debug" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f7cbce1-4572-4c4a-95c3-23740c3cbf85" name="Default Changelist" comment="" />
+      <created>1574440628760</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574440628760</updated>
+      <workItem from="1574440630731" duration="1633000" />
+      <workItem from="1574444449973" duration="2917000" />
+      <workItem from="1574890211041" duration="8069000" />
+      <workItem from="1574970760930" duration="3951000" />
+      <workItem from="1575059158305" duration="16233000" />
+      <workItem from="1575385297436" duration="46000" />
+      <workItem from="1575385734519" duration="6518000" />
+      <workItem from="1575395564892" duration="6122000" />
+      <workItem from="1575405262156" duration="5894000" />
+      <workItem from="1575429179083" duration="1452000" />
+      <workItem from="1575431741932" duration="2221000" />
+      <workItem from="1575487281581" duration="72000" />
+      <workItem from="1575487384237" duration="26000" />
+      <workItem from="1575487431240" duration="516000" />
+      <workItem from="1575487969353" duration="182000" />
+      <workItem from="1575488182505" duration="14000" />
+      <workItem from="1575574200908" duration="2665000" />
+      <workItem from="1575578802193" duration="3077000" />
+      <workItem from="1575609850004" duration="1016000" />
+      <workItem from="1575648786176" duration="2961000" />
+      <workItem from="1575651872329" duration="211000" />
+      <workItem from="1575652261634" duration="75000" />
+      <workItem from="1575652363233" duration="6458000" />
+      <workItem from="1575660832721" duration="8105000" />
+      <workItem from="1575685532261" duration="9565000" />
+      <workItem from="1575695388426" duration="7646000" />
+      <workItem from="1575752135289" duration="30178000" />
+      <workItem from="1575786028449" duration="1475000" />
+      <workItem from="1575789205478" duration="2090000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="95" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575405390536">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="0" y="95" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860@0.0.1440.860" timestamp="1575405390536" />
+    <state width="2518" height="445" key="GridCell.Tab.0.bottom" timestamp="1575851005004">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="576" height="432" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1575695987025" />
+    <state width="1398" height="406" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1575660361196" />
+    <state width="2518" height="445" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1575851005004" />
+    <state width="2518" height="445" key="GridCell.Tab.0.center" timestamp="1575851005001">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="576" height="432" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1575695987024" />
+    <state width="1398" height="406" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1575660361193" />
+    <state width="2518" height="445" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1575851005001" />
+    <state width="2518" height="445" key="GridCell.Tab.0.left" timestamp="1575851005000">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="576" height="432" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1575695987024" />
+    <state width="1398" height="406" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1575660361192" />
+    <state width="2518" height="445" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1575851005000" />
+    <state width="2518" height="445" key="GridCell.Tab.0.right" timestamp="1575851005002">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="576" height="432" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1575695987024" />
+    <state width="1398" height="406" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1575660361194" />
+    <state width="2518" height="445" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1575851005002" />
+    <state width="2518" height="445" key="GridCell.Tab.1.bottom" timestamp="1575851005008">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="576" height="432" key="GridCell.Tab.1.bottom/0.0.1280.760@0.0.1280.760" timestamp="1575695983075" />
+    <state width="1398" height="406" key="GridCell.Tab.1.bottom/0.0.1440.860@0.0.1440.860" timestamp="1575660361201" />
+    <state width="2518" height="445" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1575851005008" />
+    <state width="2518" height="445" key="GridCell.Tab.1.center" timestamp="1575851005006">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="576" height="432" key="GridCell.Tab.1.center/0.0.1280.760@0.0.1280.760" timestamp="1575695983072" />
+    <state width="1398" height="406" key="GridCell.Tab.1.center/0.0.1440.860@0.0.1440.860" timestamp="1575660361198" />
+    <state width="2518" height="445" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1575851005006" />
+    <state width="2518" height="445" key="GridCell.Tab.1.left" timestamp="1575851005005">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="576" height="432" key="GridCell.Tab.1.left/0.0.1280.760@0.0.1280.760" timestamp="1575695983071" />
+    <state width="1398" height="406" key="GridCell.Tab.1.left/0.0.1440.860@0.0.1440.860" timestamp="1575660361197" />
+    <state width="2518" height="445" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1575851005005" />
+    <state width="2518" height="445" key="GridCell.Tab.1.right" timestamp="1575851005007">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="576" height="432" key="GridCell.Tab.1.right/0.0.1280.760@0.0.1280.760" timestamp="1575695983073" />
+    <state width="1398" height="406" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1575660361200" />
+    <state width="2518" height="445" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1575851005007" />
+    <state x="512" y="238" width="992" height="734" key="SettingsEditor" timestamp="1575697023146">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="288" y="146" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1575414125457" />
+    <state x="512" y="238" width="992" height="734" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1575697023146" />
+    <state x="567" y="440" width="631" height="341" key="com.intellij.ide.util.TipDialog" timestamp="1575789205575">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="319" y="270" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1575661079908" />
+    <state x="567" y="440" width="631" height="341" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1575789205575" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/matchmaking.c</url>
+          <line>26</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/exchange.c</url>
+          <line>58</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="exchange" language="ObjectiveC" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

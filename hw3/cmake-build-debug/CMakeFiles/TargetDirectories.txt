@@ -1,0 +1,4 @@
+/home/student/Desktop/hw3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/student/Desktop/hw3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/student/Desktop/hw3/cmake-build-debug/CMakeFiles/hw3.dir
+/home/student/Desktop/hw3/cmake-build-debug/CMakeFiles/hw3_debug.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/hw3_debug.dir/src/sfmm.c.o CMakeFiles/hw3_debug.dir/tests/sfmm_tests.c.o ../lib/sfutil.o  -o hw3_debug /usr/lib/libcriterion.so 

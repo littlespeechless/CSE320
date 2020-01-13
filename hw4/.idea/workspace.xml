@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="hw4" targetName="hw4_debug" />
+      <config projectName="hw4" targetName="hw4" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="72b2d0da-f334-4d85-ba78-9b3db8ae513e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectId" id="1TG35K5EDqoovqDR4Zr5Jba4VXo" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/demo" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="dynamic.analysis.tools.valgrind" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/demo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/bin" />
+      <recent name="$PROJECT_DIR$/include" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="CMake Application.hw4">
+    <configuration name="hw4" type="CMakeRunConfiguration" factoryName="Application" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hw4" TARGET_NAME="hw4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="hw4" RUN_TARGET_NAME="hw4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hw4_debug" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hw4" TARGET_NAME="hw4_debug" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="hw4" RUN_TARGET_NAME="hw4_debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.hw4" />
+      <item itemvalue="CMake Application.hw4_debug" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72b2d0da-f334-4d85-ba78-9b3db8ae513e" name="Default Changelist" comment="" />
+      <created>1573072420690</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573072420690</updated>
+      <workItem from="1573072423015" duration="473000" />
+      <workItem from="1573074007182" duration="35206000" />
+      <workItem from="1573314664786" duration="5423000" />
+      <workItem from="1573320740538" duration="2748000" />
+      <workItem from="1573323537725" duration="20000" />
+      <workItem from="1573323809253" duration="2181000" />
+      <workItem from="1573326038226" duration="23317000" />
+      <workItem from="1573410065718" duration="27595000" />
+      <workItem from="1573440056516" duration="7182000" />
+      <workItem from="1573491164037" duration="6468000" />
+      <workItem from="1573498871794" duration="2555000" />
+      <workItem from="1573568404679" duration="2133000" />
+      <workItem from="1573581769630" duration="2777000" />
+      <workItem from="1573586687229" duration="1610000" />
+      <workItem from="1573591953926" duration="4779000" />
+      <workItem from="1573617452175" duration="4032000" />
+      <workItem from="1573690189266" duration="16729000" />
+      <workItem from="1573788168744" duration="2744000" />
+      <workItem from="1573833335048" duration="5069000" />
+      <workItem from="1573855064917" duration="1635000" />
+      <workItem from="1573950364048" duration="109000" />
+      <workItem from="1573950819984" duration="1472000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/jobs.c</url>
+          <line>22</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="jobTable" language="ObjectiveC" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
